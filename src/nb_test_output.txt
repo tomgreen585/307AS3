@@ -1,0 +1,52 @@
+
+Test Instance = 1
+score(recurrence-events = 7.95733952513876e-06)
+score(no-recurrence-events = 4.225449295343082e-06)
+
+Test Instance = 2
+score(recurrence-events = 2.917691159217544e-05)
+score(no-recurrence-events = 0.00035090896541482136)
+
+Test Instance = 3
+score(recurrence-events = 1.0893302834424374e-06)
+score(no-recurrence-events = 4.950751020419909e-05)
+
+Test Instance = 4
+score(recurrence-events = 1.145856891619981e-05)
+score(no-recurrence-events = 0.00015947302312979033)
+
+Test Instance = 5
+score(recurrence-events = 2.153533950851044e-06)
+score(no-recurrence-events = 4.569885534557127e-06)
+
+Test Instance = 6
+score(recurrence-events = 4.351027225465415e-05)
+score(no-recurrence-events = 0.0006310330377608908)
+
+Test Instance = 7
+score(recurrence-events = 8.314945855647813e-05)
+score(no-recurrence-events = 0.00021783648604782526)
+
+Test Instance = 8
+score(recurrence-events = 1.0018390240701734e-05)
+score(no-recurrence-events = 0.00033133672335758455)
+
+Test Instance = 9
+score(recurrence-events = 7.270264415795743e-05)
+score(no-recurrence-events = 4.114665927685032e-05)
+
+Test Instance = 10
+score(recurrence-events = 5.923919153611345e-05)
+score(no-recurrence-events = 4.313762666121404e-05)
+
+Predicted Test Class 1 = recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 2 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 3 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 4 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 5 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 6 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 7 = no-recurrence-events, Actual Test Class = no-recurrence-events
+Predicted Test Class 8 = no-recurrence-events, Actual Test Class = recurrence-events
+Predicted Test Class 9 = recurrence-events, Actual Test Class = recurrence-events
+Predicted Test Class 10 = recurrence-events, Actual Test Class = recurrence-events
+ACCURACY = 80.0%
