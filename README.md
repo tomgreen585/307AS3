@@ -1,4 +1,4 @@
-# COMP307 Assignment Three
+# COMP307 Assignment Three - Naive Bayes
 
 - Naive Bayes Program Code: (41/44) Does not count zero-occurrence value
 - Naive Bayes Report: (14/16) Slight deviations due to zero-occurrence issue
